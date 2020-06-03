@@ -31,7 +31,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #define QUEUE_SIZE 20
 #endif
 #ifndef TIMEOUT_MS
-#define TIMEOUT_MS 5000
+#define TIMEOUT_MS 500
 #endif
 
 #include <functional>
